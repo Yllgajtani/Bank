@@ -60,5 +60,8 @@ body{
 }
 .P{
     width: 100px;
-    height: 70px;
+    height: 80px;
+    margin-top: 15px;
+     margin-left: 15px; 
+   border-radius: 15px;
 }
