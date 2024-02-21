@@ -186,3 +186,11 @@ height: 80px;
 margin-top: 20px;
 border-radius: 15px;
 }
+hr {
+    border-top: 2px solid red;
+  }
+  .pp1{
+    color: red;
+    font-size: 15px;
+ margin-left: 700px;
+  }
